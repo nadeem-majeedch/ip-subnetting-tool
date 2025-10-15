@@ -52,12 +52,14 @@ venv\Scripts\activate     # (Windows)
 python network_subnet_tool.py
 ```
 ## 📂 Project Structure
+```
 network-subnetting-tool/
 ├── network_subnet_tool.py    # Main GUI tool
 ├── subnet_cli.py             # CLI version
 ├── requirements.txt
 ├── README.md
 └── icon.ico                  # icon for .exe
+```
 
 
 ## 🧑 Author
