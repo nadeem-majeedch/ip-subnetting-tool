@@ -1,0 +1,4 @@
+# requirements.txt
+# Network Subnetting Tool by Dr. Nadeem Majeed
+
+pyinstaller>=6.0.0
