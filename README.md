@@ -40,7 +40,8 @@ This tool is designed for network engineers, students, and IT professionals who 
 1. Clone this repository:
    ```bash
    git clone https://github.com/nadeem-majeedch/network-subnetting-tool.git
-   cd network-subnetting-tool```
+   cd network-subnetting-tool
+   ```
 2. Install dependencies (only standard library is used, but recommended to create a venv):
 ```
 python -m venv venv
